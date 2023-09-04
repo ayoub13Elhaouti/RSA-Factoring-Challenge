@@ -1,2 +1,1 @@
-RSA Factoring Challenge (Pseudo-Theory)
-
+RSA Challenge 
